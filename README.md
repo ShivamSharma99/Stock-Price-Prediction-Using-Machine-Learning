@@ -1,8 +1,8 @@
 # Stock Price Predictor
-*Udacity - Machine learning Nano Degree Program : Project-6 (Capstone project)*
+ 
 
 ## Project Overview
-*This is sixth and final capstone project in the series of the projects listed in Udacity- Machine Learning Nano Degree Program.*
+ 
 
 Investment firms, hedge funds and even individuals have been using financial models to better understand market behavior and make profitable investments and trades. A wealth of information is available in the form of historical stock prices and company performance data, suitable for machine learning algorithms to process.
 
@@ -12,7 +12,7 @@ This project utilizes Deep Learning models, Long-Short Term Memory (LSTM) Neural
 
 I have used Keras to build a LSTM to predict stock prices using historical closing price and trading volume and visualize both the predicted price values over time and the optimal parameters for the model.
 
-![Stock Price Predictor](https://github.com/Rajat-dhyani/Stock-Price-Predictor/blob/master/data_visualization_lstm_improved.png)
+![Stock Price Predictor] 
 
 
 ## Problem Highlights
@@ -29,14 +29,7 @@ Things i have learnt by completing this project:
 * How to analyze model's performance.
 * How to optimise Long Short Term Memory Neural Network algortithm, to ensure increase in postive results.
 
-### Other Related Projects:
-* <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
-* <strong> Project 1 : </strong> *[Boston's Houses Prediction](https://github.com/Rajat-dhyani/boston_housing)*
-* <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
-* <strong> Project 3 : </strong> *[Creating Customer Segments](https://github.com/Rajat-dhyani/creating_customer_segments)*
-* <strong> Project 4 : </strong> *[Smart Cab](https://github.com/Rajat-dhyani/smart-cab)*
-* <strong> Project 5 : </strong> *[ImageNetBot](https://github.com/Rajat-dhyani/ImageNetBot)*
-
+ 
 ## Software and Libraries
 This project uses the following software and Python libraries:
 
